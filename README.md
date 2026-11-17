@@ -24,8 +24,6 @@ The proposed environment includes Windows and Ubuntu monitored hosts, a Fleet Se
 ### 4. Failure modes and visibility
 <img width="1010" height="390" alt="04-failure-visibility" src="https://github.com/user-attachments/assets/0629e3ea-147e-4864-b376-28b412006a86" />
 
-Editable Graphviz `.dot` source and scalable `.svg` files are included in `diagrams/`.
-
 ## Component responsibilities
 
 | Component | Conceptual responsibility |
