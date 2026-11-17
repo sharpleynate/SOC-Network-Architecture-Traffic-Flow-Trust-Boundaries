@@ -16,14 +16,13 @@ The proposed environment includes Windows and Ubuntu monitored hosts, a Fleet Se
 <img width="1495" height="856" alt="01-architecture" src="https://github.com/user-attachments/assets/94a1074d-72a9-4f52-95bd-f6c04e7ec829" />
 
 ### 2. Telemetry and management flow
-![Telemetry and agent management](diagrams/02-telemetry-flow.png) ![Uploading 01-architecture.png…]()
-
+<img width="1412" height="295" alt="02-telemetry-flow" src="https://github.com/user-attachments/assets/59e6b7c2-df4a-4a9f-a5ea-9c36c2d5bb18" />
 
 ### 3. Trust boundaries and access
-![Trust boundaries](diagrams/03-trust-boundaries.png)
+<img width="1788" height="434" alt="03-trust-boundaries" src="https://github.com/user-attachments/assets/b56dc6d6-387a-4e1f-8350-51105869f99f" />
 
 ### 4. Failure modes and visibility
-![Failure modes](diagrams/04-failure-visibility.png)
+<img width="1010" height="390" alt="04-failure-visibility" src="https://github.com/user-attachments/assets/0629e3ea-147e-4864-b376-28b412006a86" />
 
 Editable Graphviz `.dot` source and scalable `.svg` files are included in `diagrams/`.
 
