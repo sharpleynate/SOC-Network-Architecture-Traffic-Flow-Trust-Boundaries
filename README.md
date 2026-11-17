@@ -13,10 +13,11 @@ The proposed environment includes Windows and Ubuntu monitored hosts, a Fleet Se
 ## Diagrams
 
 ### 1. Proposed SOC architecture
-![Proposed SOC architecture](diagrams/01-architecture.png)
+<img width="1495" height="856" alt="01-architecture" src="https://github.com/user-attachments/assets/94a1074d-72a9-4f52-95bd-f6c04e7ec829" />
 
 ### 2. Telemetry and management flow
-![Telemetry and agent management](diagrams/02-telemetry-flow.png)
+![Telemetry and agent management](diagrams/02-telemetry-flow.png) ![Uploading 01-architecture.png…]()
+
 
 ### 3. Trust boundaries and access
 ![Trust boundaries](diagrams/03-trust-boundaries.png)
